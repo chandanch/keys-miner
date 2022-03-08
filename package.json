@@ -1,18 +1,18 @@
 {
-  "name": "keys-miner",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node main.js"
-  },
-  "author": "chandanch",
-  "license": "ISC",
-  "dependencies": {
-    "@azure/identity": "^2.0.4",
-    "@azure/keyvault-secrets": "^4.3.0",
-    "bunyan": "^1.8.15",
-    "dotenv": "^16.0.0"
-  }
+    "name": "keys-miner",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node main.js"
+    },
+    "author": "chandanch",
+    "license": "ISC",
+    "dependencies": {
+        "@azure/identity": "^2.0.4",
+        "@azure/keyvault-secrets": "^4.3.0",
+        "bunyan": "^1.8.15",
+        "dotenv": "^16.0.0"
+    }
 }
