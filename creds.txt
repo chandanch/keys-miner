@@ -1,0 +1,3 @@
+secret=16l7Q~vNf7V4vNJsIfzwZCnLph2WMWOs6Nrkz
+clientid=6d7ce957-dedf-4236-bc9b-b9f399d7ff7f
+tenantid=9ca683b6-fef7-4214-984e-146c2b3a0782
